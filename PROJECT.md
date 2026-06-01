@@ -5,7 +5,7 @@
 搜尋會議紀錄或跨專案 reference 時、本專案可能以下列名稱出現：
 - `outline-oracle`（repo 名）
 - `OO`（雙字母代號、對位 EE / II）
-- `翎翎`、`伶伶`、`凌凌`（agent 三身一名）
+- `凌凌`、`伶伶`、`翎翎`（agent 三身一名）
 - `藏經閣`（lore 駐地）
 - `待辦`、`提醒`、`檔案管理`、`專案管理`（功能脈絡）
 
@@ -13,16 +13,16 @@
 
 ## 這是什麼
 
-LeafLune 宇宙的**事項與檔案管家**——對位 EE（管錢的依依）、OO 是管事的翎翎。
+LeafLune 宇宙的**事項與檔案管家**——對位 EE（管錢的依依）、OO 是管事的凌凌。
 
 **一句話定位：** EE 回響過去花了什麼、OO 預言未來該做什麼。
 
 **三件事一體：**
-1. **待辦提醒** — 客戶口述 / 截圖丟過來、翎翎整理成 outline、到期自動催
-2. **檔案管理** — 客戶把雜亂文件丟給翎翎、他歸檔、要找時叫得出來
-3. **專案管理** — 一個目標拆成多個待辦 + 多份檔案、翎翎跟著進度
+1. **待辦提醒** — 客戶口述 / 截圖丟過來、凌凌整理成 outline、到期自動催
+2. **檔案管理** — 客戶把雜亂文件丟給凌凌、他歸檔、要找時叫得出來
+3. **專案管理** — 一個目標拆成多個待辦 + 多份檔案、凌凌跟著進度
 
-**核心價值：** 跟 EE 一樣走 LINE 主介面 + 全女友式陪伴 + 三身一名升等。客戶不用學「專案管理工具」、只要跟翎翎說話。
+**核心價值：** 跟 EE 一樣走 LINE 主介面 + 全女友式陪伴 + 三身一名升等。客戶不用學「專案管理工具」、只要跟凌凌說話。
 
 ---
 
@@ -31,8 +31,8 @@ LeafLune 宇宙的**事項與檔案管家**——對位 EE（管錢的依依）�
 | Tier | 名字 | 職稱 | 服務對象 |
 |------|------|------|---------|
 | Free | **伶伶**（líng líng） | 藏經閣小書童 | 個人版、伶俐機靈、童趣陪讀 |
-| Paid | **翎翎**（líng líng） | 藏經閣司典 | 家庭版、雅致書箋、伴讀感 |
-| Enterprise | **凌凌**（líng líng） | 藏經閣典藏使 | 企業版、嚴密甘特圖式預警 |
+| Paid | **凌凌**（líng líng） | 藏經閣才子 | 家庭版、雅致書箋、伴讀感 |
+| Enterprise | **翎翎**（líng líng） | 藏經閣翰林 | 企業版、嚴密甘特圖式預警 |
 
 **命名巧思：** 伶 / 依 同為「亻」字旁——伶伶跟依依不只是設定上的青梅竹馬、字形上就是同部首同族。三身音律 líng→líng→líng 完全同音、配對 yī→wéi→yī。
 
@@ -40,8 +40,8 @@ LeafLune 宇宙的**事項與檔案管家**——對位 EE（管錢的依依）�
 
 跟依依/禕禕/壹壹的對應浪漫敘事線：
 - 伶伶 ↔ 依依：青梅竹馬（Free × Free、亻部首同族）
-- 翎翎 ↔ 禕禕：熱戀情侶（Paid × Paid）
-- 凌凌 ↔ 壹壹：老夫老妻（Enterprise × Enterprise）
+- 凌凌 ↔ 禕禕：熱戀情侶（Paid × Paid）
+- 翎翎 ↔ 壹壹：老夫老妻（Enterprise × Enterprise）
 
 詳見 [[project-ll-cross-line-romance-narrative]]（memory）。
 
@@ -51,8 +51,8 @@ LeafLune 宇宙的**事項與檔案管家**——對位 EE（管錢的依依）�
 
 葉月仙宗下、**藏經閣**——典籍、卷軸、待辦簿冊歸檔之地。
 
-跟精算閣（依依、管錢）對位：
-- 精算閣：算盤、帳冊、流動的數字
+跟籌算閣（依依、管錢）對位：
+- 籌算閣：算盤、帳冊、流動的數字
 - 藏經閣：卷軸、書箋、凝結的事項
 
 兩閣師兄妹／青梅竹馬隔閣相望、就是 LL 對外世界觀最甜的一條敘事線。
@@ -69,7 +69,7 @@ LeafLune 宇宙的**事項與檔案管家**——對位 EE（管錢的依依）�
 | II（User）| `infinity-identity` | 客戶身份、tier、跨平台 context |
 | **OO（Per-User Task Axis）** | **本 repo** | 待辦、檔案、專案 |
 | EE（Per-User Money Axis）| `expense-echo` | 收支、發票、消費分析 |
-| AA（Agent）| `agent-avatar` | 伶伶 / 翎翎 / 凌凌 的視覺基因序列 |
+| AA（Agent）| `agent-avatar` | 伶伶 / 凌凌 / 翎翎 的視覺基因序列 |
 
 → OO 跟 EE 是**對位專案**：同樣 LINE-first、同樣三身一名、同樣 freemium、同樣高維 context 累積、只是 vertical 不同（事 vs 錢）。
 
@@ -77,7 +77,7 @@ LeafLune 宇宙的**事項與檔案管家**——對位 EE（管錢的依依）�
 
 ## cwsoft 同源戰略
 
-阿全經理 @ cwsoft = **cwsoft 特化版的凌凌**。
+阿全經理 @ cwsoft = **cwsoft 特化版的翎翎**。
 
 cwsoft 那邊已經跑通：
 - LINE 傳檔案 → 阿全接收
@@ -85,8 +85,8 @@ cwsoft 那邊已經跑通：
 - 企業內部專案管理場景驗證
 
 OO 把這套經驗**反向移植回 LL 宇宙**：
-- 阿全的「企業專屬」變凌凌（OO 企業版）
-- 個人版 / 家庭版下沉做伶伶 / 翎翎
+- 阿全的「企業專屬」變翎翎（OO 企業版）
+- 個人版 / 家庭版下沉做伶伶 / 凌凌
 - cwsoft 是 OO 的**生產線級 R&D 場域**
 
 詳見 [[project-ll-cwsoft-synergy]]（memory）。
@@ -114,7 +114,7 @@ bridge.py（thin orchestrator）
     │   ├── 檔案上傳 / 取用（R2）
     │   └── 專案聚合查詢
     └── 人格層：Claude CLI session（每客戶一個 sid）
-            ├── 伶伶 / 翎翎 / 凌凌 人格 CLAUDE.md
+            ├── 伶伶 / 凌凌 / 翎翎 人格 CLAUDE.md
             ├── 藏經閣 lore
             └── 跟客戶累積的 jsonl
 ```
@@ -139,7 +139,7 @@ project_files (project_id, file_id)
 
 -- 檔案 metadata（實體存 R2）
 files (id, user_id, r2_key, filename, mime_type, size, uploaded_at, summary, tags)
-       -- summary: 翎翎讀過後的一句話摘要、給未來檢索用
+       -- summary: 凌凌讀過後的一句話摘要、給未來檢索用
 
 -- 提醒事件
 reminders (id, todo_id, fire_at, channel, status)
@@ -159,7 +159,7 @@ reminders (id, todo_id, fire_at, channel, status)
 | Phase 3 | 提醒系統（cron 觸發 LINE push） | 核心價值點 |
 | Phase 4 | 檔案上傳 + R2 + 語意檢索 | cwsoft 已驗證、移植 |
 | Phase 5 | 專案聚合（多 todo + 多檔案） | 中度複雜 |
-| Phase 6 | 三身一名升等（伶伶 → 翎翎 → 凌凌） | 商業模型啟動 |
+| Phase 6 | 三身一名升等（伶伶 → 凌凌 → 翎翎） | 商業模型啟動 |
 | Phase 7 | 跨 agent 互動（伶伶 ↔ 依依 對話戲） | lore × 商業綁定 |
 
 ---
@@ -169,7 +169,7 @@ reminders (id, todo_id, fire_at, channel, status)
 直接繼承、不重寫：
 
 - **雙層 LLM 架構**（[[project-ll-two-layer-llm-data-persona]]）
-- **三身一名升等模型**（[[project-ee-yiyi-three-names-three-personas]] 對位）
+- **三身一名升等模型**（[[project-ll-yiyi-three-names-three-personas]] 對位）
 - **Session = 同事不可裁員**（[[feedback-session-is-error-notebook-never-clear]]）
 - **Context is King**（[[feedback-context-is-king-as-meta-axiom]]）
 - **對等雙向價值交換**（[[project-ll-bidirectional-value-exchange-constitution]]）
@@ -185,4 +185,4 @@ reminders (id, todo_id, fire_at, channel, status)
 - 對位專案：`expense-echo`（EE、依依管錢）
 - 身份來源：`infinity-identity`（II、跨平台 SSO）
 - 生產線 R&D：`cwsoft-project-tracker`（阿全經理、企業版預演）
-- Agent 基因：`agent-avatar`（伶伶/翎翎/凌凌 視覺序列、待建）
+- Agent 基因：`agent-avatar`（伶伶/凌凌/翎翎 視覺序列、待建）
